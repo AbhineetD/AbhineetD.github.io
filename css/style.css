@@ -45,16 +45,24 @@ html, body {
   background-image: url(http://s8.postimg.org/grwsbtiat/x_ZMOBTj.jpg);
 }
 
+.background:nth-child(4) {
+  background-image: url(https://s28.postimg.org/7l0qd9531/0228.jpg);
+}
+
 /* Set stacking context of slides */
 .background:nth-child(1) {
-  z-index: 3;
+  z-index: 4;
 }
 
 .background:nth-child(2) {
-  z-index: 2;
+  z-index: 3;
 }
 
 .background:nth-child(3) {
+  z-index: 2;
+}
+
+.background:nth-child(4) {
   z-index: 1;
 }
 
