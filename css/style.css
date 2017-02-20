@@ -30,7 +30,7 @@ html, body {
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url(http://s8.postimg.org/lf2udl5np/4_Aihmii.jpg);
+  background-image: url(https://s32.postimg.org/ceik7pip1/Background1.jpg);
   -webkit-transform: translateY(-15vh);
           transform: translateY(-15vh);
 }
@@ -39,10 +39,10 @@ html, body {
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url(http://s8.postimg.org/ow4wgk4px/ugqti_Lg.jpg);
+  background-image: url(https://s28.postimg.org/xgpqxeu99/Background2.jpg);
 }
 .background:nth-child(3) {
-  background-image: url(http://s8.postimg.org/grwsbtiat/x_ZMOBTj.jpg);
+  background-image: url(https://s11.postimg.org/w8uznyr1f/Background3.jpg);
 }
 
 .background:nth-child(4) {
